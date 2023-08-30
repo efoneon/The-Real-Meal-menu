@@ -7,14 +7,18 @@
   text-align: center;
 }
 
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
 body {
   color: white;
   background-color: black;
   font-family: sans-serif;
-}
-
-.align-left {
-  text-align: left;
 }
 
 .menu-list {
