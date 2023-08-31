@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
+body {
+  color: white;
+  background-color: black;
+  font-family: sans-serif;
+}
+
+.menu-list {
+  background: #111;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.white-border {
+  border: 1px solid white;
+}
+
+.green {
+  color: green;
+  text-align: center;
+}
+
+.fancy-font {
+  font-family: fantasy;
+}
+
+a {
+  color: dodgerblue;
+  transition: 1s;
+}
+
+a:hover {
+  color: blue;
+}
+
+.padding-align {
+  padding-left: 300px;
+  font-size: xx-large;
+}
